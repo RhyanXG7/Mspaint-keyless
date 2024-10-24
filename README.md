@@ -1,25 +1,24 @@
 # mspaint
 A decent script hub that is free and open source 🥶
+> dito isso, Keyless ;D
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RhyanXG7/Mspaint-keyless/refs/heads/BetterStar/main.lua"))()
 ```
 
 **Links**:
-- [🌐 Website](https://mspaint.upio.dev/)
-- [💬 Discord](https://discord.com/invite/cfyMptntHr)
+- [🌐 Website]()
+- [💬 Discord](https://dsc.gg/betterstar)
 
 # Addons
-You can find documentation on how to create an addon here: https://docs.upio.dev/mspaint/addons/getting_started
+Você pode encontrar documentação sobre como criar um complemento aqui: https://docs.upio.dev/mspaint/addons/getting_started
 
-# Contributing
-Please make sure to follow the [contributor guidelines](CONTRIBUTING).
 
 > [!IMPORTANT]
-> This script now uses the [wax bundler](https://github.com/latte-soft/wax) to organize code
+> Este script agora usa o [wax bundler](https://github.com/latte-soft/wax) to organize code
 
 ## Bundling mspaint via wax
-To bundle all the scripts, you have to follow these steps:
+Para agrupar todos os scripts, você precisa seguir estes passos:Para agrupar todos os scripts, você precisa seguir estes passos:
 
 1. Install [rokit](https://github.com/rojo-rbx/rokit) if you haven't already
 2. Open Powershell or the command-line shell of your liking and [cd to this repository](https://www.quora.com/What-does-it-mean-to-CD-into-a-directory-and-how-can-I-do-that-Can-someone-explain-it-in-a-laymans-term)
